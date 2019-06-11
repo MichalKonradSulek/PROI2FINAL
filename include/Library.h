@@ -1,7 +1,7 @@
 /*
 Project: Project2
  Author: Michal Sulek
- Grader: Wiktor Kusmirek
+Teacher: Wiktor Kusmirek
 */
 
 #ifndef LIBRARY
